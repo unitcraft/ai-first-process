@@ -50,4 +50,5 @@ HOOKEOF
 chmod +x "$HUK"
 echo "Хук поставлен: $HUK"
 echo "Проверка: bash scripts/guard.sh"
+echo "Тест на стражей: python scripts/guard-test.py"
 exit 0
